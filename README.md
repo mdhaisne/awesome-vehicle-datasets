@@ -12,8 +12,9 @@
 - [VehicleID](https://www.pkuml.org/resources/pku-vehicleid.html)
 - [BoxCars21k](https://medusa.fit.vutbr.cz/traffic/data/2016-CVPR-BoxCars21k-dataset.zip)
 - [BoxCars116k](https://medusa.fit.vutbr.cz/traffic/data/BoxCars116k.zip)
-- [VeRi](https://vehiclereid.github.io/VeRi/)
+- [VeRi-776](https://vehiclereid.github.io/VeRi/)
 - [VeRi-Wild](https://github.com/PKU-IMRE/VERI-Wild)
+- [PKU-VehicleID](https://pkuml.org/resources/pku-vehicleid.html)
 - [Toy Car ReID](http://thefuckingweather.com/)
 - [VRIC](https://qmul-vric.github.io/)
 - [Vehicle-1M](http://www.nlpr.ia.ac.cn/iva/homepage/jqwang/Vehicle1M.htm)
@@ -146,7 +147,7 @@ Zhou, Y., Liu, L., Shao, L. and Mellor, M., 2016, October. DAVE: A Unified Frame
 	ISSN={1524-9050}
 }
 ```
-### VeRi
+### VeRi-776
 ```
 	Xinchen Liu, Wu Liu, Huadong Ma, Huiyuan Fu: Large-scale vehicle re-identification in urban surveillance videos. ICME 2016: 1-6 (Best Student Paper Award, Citation=75)
 	Xinchen Liu, Wu Liu, Tao Mei, Huadong Ma: A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance. ECCV (2) 2016: 869-884 (Citation=56)
@@ -162,6 +163,17 @@ Zhou, Y., Liu, L., Shao, L. and Mellor, M., 2016, October. DAVE: A Unified Frame
 	year={2019}
 }
 ```
+### PKU-VehicleID
+```
+@inproceedings{liu2016deep,
+	title={Deep Relative Distance Learning: Tell the Difference Between Similar Vehicles},
+  	author={Liu, Hongye and Tian, Yonghong and Wang, Yaowei and Pang, Lu and Huang, Tiejun},
+  	booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  	pages={2167--2175},
+	year={2016}
+}
+```
+
 ### VRIC
 ```
 @inproceedings{2018gcpr-Kanaci,
