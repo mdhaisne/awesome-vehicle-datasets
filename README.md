@@ -35,8 +35,9 @@
 | VehicleID |model Verification, reidentification|221,763|26,267|||
 | BoxCars21k |Fine-Grained, Classification, Reidentification|63,750|21,250|||
 | BoxCars116k |Fine-Grained, Classification, Reidentification|116,826|27,496|||
-| VeRi |Reidentification|50,000|776||20|
+| VeRi-776 |Reidentification|50,000|776||20|
 | VeRi-Wild |Reidentification|416,314|40,671||174|
+| PKU-VehicleID | Reidentification | 221,763 | 26,267 | | |
 | Toy Car ReID |Reidentification|||||
 | VRIC |Reidentification|60,430|5,622||60|
 | Vehicle-1M |Classification|936,051|55,527|400||
